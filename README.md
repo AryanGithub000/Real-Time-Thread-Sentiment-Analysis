@@ -68,24 +68,6 @@ A comprehensive Twitter sentiment analysis application using multiple deep learn
 - Sentiment evolution timelines
 - Word importance analysis
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
-cd twitter-sentiment-analysis
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-streamlit run TwitterSentimentAnalysis.py
-```
-
 ## Required Files
 
 Ensure you have the following files in your project directory:
