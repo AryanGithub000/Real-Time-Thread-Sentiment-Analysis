@@ -18,7 +18,8 @@ https://colab.research.google.com/drive/1LpChlvXFZgubRd2PYMibZ1bIz1FrnGgW#scroll
 
 A comprehensive Twitter sentiment analysis application using multiple deep learning models (Bidirectional GRU, Bidirectional LSTM, and TinyBERT) for emotion classification across 6 categories: Sadness, Joy, Love, Anger, Fear, and Surprise.
 
-([WhatsApp Image 2025-04-26 at 16 17 04_2f4c9c8b](https://github.com/user-attachments/assets/1e3f0395-7a8b-4a8a-a4b2-345bf9ed2513))
+![WhatsApp Image 2025-04-26 at 16 17 04_2f4c9c8b](https://github.com/user-attachments/assets/427b029c-50c4-4cc8-83f4-3e152624552f)
+
 
 ## Features
 
