@@ -129,3 +129,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TinyBERT implementation based on [Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
 - SHAP library for model interpretability
 - Streamlit for the interactive web application
+
+## Current Needs:
+There seems to be a problem to run on Hugging Face deployment; can test it locally
